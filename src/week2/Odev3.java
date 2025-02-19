@@ -16,11 +16,13 @@ public class Odev3 {
         if (hız > 0 && hız <= 90) {
             kategori = 1;
 
-        } else if (hız > 90 && hız <= 130) {
+        } else if (hız > 90 && hız <= 110) {
             kategori = 2;
 
-        } else if (hız > 130) {
+        } else if (hız > 110 && hız <= 130) {
             kategori = 3;
+        } else if (hız > 130) {
+            kategori = 4;
         } else {
             System.out.println("Geçerli hız giriniz");
         }
@@ -36,7 +38,12 @@ public class Odev3 {
 
             case 3:
                 ceza = 2000;
-                System.out.println("Hız sınırını aştınız Cezanız :" + ceza + "TL ,  Ehiliyetinize el konulmuştur.");
+                System.out.println("Hız sınırını aştınız Cezanız :" + ceza );
+                break;
+
+            case 4:
+                System.out.println("Ehliyetinize el konulmuştur.");
+                break;
         }
     }
 }
