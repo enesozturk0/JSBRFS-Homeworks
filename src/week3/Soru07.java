@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Soru7 {
+public class Soru07 {
     public static void main(String[] args) {
         //Soru 7:
         //Bir ArrayList<String> içerisine 5 farklı şehir ekleyin.

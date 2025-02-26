@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class Soru5 {
+public class Soru05 {
     public static void main(String[] args) {
 
         //Soru 5:

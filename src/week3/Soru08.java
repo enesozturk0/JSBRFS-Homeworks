@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-public class Soru8 {
+public class Soru08 {
     public static void main(String[] args) {
 
         //Soru 8:

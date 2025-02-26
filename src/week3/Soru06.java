@@ -1,11 +1,10 @@
 package week3;
 
-import java.math.MathContext;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Soru6 {
+public class Soru06 {
     public static void main(String[] args) {
 
         //Soru 6:

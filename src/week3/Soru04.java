@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Soru4 {
+public class Soru04 {
     public static void main(String[] args) {
 
         //Soru 4:

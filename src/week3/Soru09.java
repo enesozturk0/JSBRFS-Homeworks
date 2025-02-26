@@ -3,7 +3,7 @@ package week3;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Soru9 {
+public class Soru09 {
     public static void main(String[] args) {
 
         /* Soru 9:

@@ -2,7 +2,7 @@ package week3;
 
 import java.util.Scanner;
 
-public class Soru3 {
+public class Soru03 {
 
     public static void main(String[] args) {
 
